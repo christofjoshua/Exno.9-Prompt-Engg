@@ -35,5 +35,4 @@ Saved each generated video and compared the effects of prompt structure, tone, a
 The Prompt of the above task executed successfully
 
 
-# Result:
 
